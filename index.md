@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog to build a machine learning model
 ---
 
